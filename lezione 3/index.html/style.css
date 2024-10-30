@@ -1,0 +1,32 @@
+body {
+    width: 50vw;
+}
+
+.ciao {
+    width: 20%;
+}
+
+.scritta {
+
+    background-color: #FFFBF1;
+    padding: 1rem;
+}
+
+.prima {
+    background-color: #f5d071;
+    height: 2px;
+    border: none;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.seconda {
+color:#a7f5f5;
+padding:2px;
+}
+.terza{
+    color:#a7f5f5;
+    padding:2px;
+}
